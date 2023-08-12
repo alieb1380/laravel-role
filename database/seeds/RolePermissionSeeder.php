@@ -85,6 +85,22 @@ class RolePermissionSeeder extends Seeder
                     'profile.edit',
                 ]
             ],
+            [
+                'group_name' => 'Gender',
+                'permissions' => [
+                    // profile Permissions
+                    'Gender.view',
+                    'Gender.edit',
+                ]
+            ],
+            [
+                'group_name' => 'HII',
+                'permissions' => [
+                    // profile Permissions
+                    'HII.view',
+                    'HII.edit',
+                ]
+            ],
         ];
 
 

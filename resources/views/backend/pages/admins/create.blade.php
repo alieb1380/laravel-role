@@ -2,7 +2,6 @@
 @extends('backend.layouts.master')
 
 @section('title')
-Admin Create - Admin Panel
 @endsection
 
 @section('styles')
