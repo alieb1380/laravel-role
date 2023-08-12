@@ -55,7 +55,7 @@ Dashboard Page - Admin Panel
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 mb-3 mb-lg-0">
+            {{-- <div class="col-md-6 mb-3 mb-lg-0">
                 <div class="card">
                     <div class="seo-fact sbg3">
                         <div class="p-4 d-flex justify-content-between align-items-center">
@@ -63,7 +63,7 @@ Dashboard Page - Admin Panel
                             <h2>{{ $total_permissions }}</h2>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>

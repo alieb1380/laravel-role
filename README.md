@@ -1,8 +1,6 @@
-# Laravel Role Permission Management System - Laravel `7.x` `9.x`
 
-A project which manage Role, Permissions and every actions of your Laravel application. A complete solution for Role based Access Control in Laravel.
 
-**Live Demo:** http://laravel-role.herokuapp.com
+
 ```
 Username - superadmin
 password - 12345678
